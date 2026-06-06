@@ -69,7 +69,7 @@ export function Solutions() {
         <div className="relative z-10 flex flex-col items-center space-y-8 text-center">
           <div className="max-w-3xl">
             <h2 className="text-4xl font-semibold tracking-tighter sm:text-5xl md:text-6xl font-headline">
-              Solutions custom supported by THE best technologies at Forge Labs
+              Solutions supported by THE best technologies
             </h2>
             <p className="mt-4 text-muted-foreground md:text-xl">
               With the support of our experts, you will be able to anticipate
