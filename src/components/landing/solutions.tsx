@@ -1,4 +1,3 @@
-
 'use client';
 import { Button } from '@/components/ui/button';
 import { CheckCircle2 } from 'lucide-react';
@@ -55,7 +54,7 @@ export function Solutions() {
   ];
 
   return (
-    <section className="relative w-full py-24 lg:py-32 bg-white overflow-hidden flex items-center justify-center">
+    <section className="relative w-full py-32 lg:py-48 bg-white overflow-hidden flex items-center justify-center">
       <div className="container mx-auto px-4 md:px-6">
         {icons.map(({ icon: Icon, color }, index) => (
           <div
