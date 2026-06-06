@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "testimonial-author-1",
+      "description": "Headshot of Sarah Chen",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmVzc2lvbmFsJTIwaGVhZHNob3R8ZW58MHx8fHwxNjI4Mjk3NTE0fDA",
+      "imageHint": "professional headshot woman"
+    },
+    {
+      "id": "testimonial-author-2",
+      "description": "Headshot of Marcus Webb",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsJTIwaGVhZHNob3R8ZW58MHx8fHwxNjI4Mjk3NTE0fDA",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "testimonial-author-3",
+      "description": "Headshot of Elena Frost",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmVzc2lvbmFsJTIwaGVhZHNob3R8ZW58MHx8fHwxNjI4Mjk3NTE0fDA",
+      "imageHint": "professional headshot woman"
+    }
+  ]
+}
