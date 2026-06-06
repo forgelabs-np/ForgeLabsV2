@@ -19,7 +19,7 @@ export default function CaseStudiesPage() {
               Explore a selection of our projects that showcase our expertise and commitment to quality.
             </p>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {projects.map((project) => (
               <Link key={project.slug} href={`/case-studies/${project.slug}`} className="group block">
                 <div className="overflow-hidden rounded-xl bg-card border shadow-sm hover:shadow-lg transition-shadow duration-300 h-full flex flex-col">

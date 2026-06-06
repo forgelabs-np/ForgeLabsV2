@@ -54,7 +54,7 @@ export function Solutions() {
   ];
 
   return (
-    <section className="relative w-full py-32 lg:py-48 bg-white overflow-hidden flex items-center justify-center">
+    <section className="relative w-full py-48 lg:py-64 bg-white overflow-hidden flex items-center justify-center">
       <div className="container mx-auto px-4 md:px-6">
         {icons.map(({ icon: Icon, color }, index) => (
           <div

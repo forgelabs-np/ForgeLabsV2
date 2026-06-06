@@ -118,7 +118,7 @@ export function ServicesContent() {
                 {services.map((service, index) => (
                     <motion.div 
                         key={index} 
-                        className="bg-card p-8 rounded-2xl shadow-lg border transition-shadow duration-300 flex flex-col w-full md:max-w-[calc(50%-1rem)] lg:max-w-[calc(33.333%-1.333rem)]"
+                        className="bg-card p-8 rounded-2xl shadow-lg border border-primary/10 transition-shadow duration-300 flex flex-col w-full md:max-w-[calc(50%-1rem)] lg:max-w-[calc(33.333%-1.333rem)]"
                         variants={itemVariants}
                     >
                         <h3 className="text-2xl font-semibold mb-4 text-primary">{service.title}</h3>
